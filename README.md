@@ -1,0 +1,2 @@
+这是一个基于ZalithLauncher2启动器开发的液态玻璃效果的ZalithLauncher2-LiquidGlass
+功能与ZalithLauncher2一样仅增加了个液态玻璃效果
